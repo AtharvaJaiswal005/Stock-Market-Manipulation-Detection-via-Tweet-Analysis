@@ -107,5 +107,5 @@ Stock-Market-Manipulation-Detection/
 For questions or suggestions, please reach out to:
 
 - **Atharva Jaiswal**
-- **Email**: atharvajaiswal005@gmail.com
+- **Email**: atharvapj5@gmail.com
 - **LinkedIn**: [Atharva Jaiswal](https://www.linkedin.com/in/atharva-jaiswal/)
