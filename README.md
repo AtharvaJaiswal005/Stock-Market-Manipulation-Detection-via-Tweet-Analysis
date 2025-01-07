@@ -99,7 +99,6 @@ This script will automatically download the necessary data and install all depen
 ## Contact
 
 For questions or suggestions, please reach out to:
-
 - **Atharva Jaiswal**
 - **Email**: atharvapj5@gmail.com
 - **LinkedIn**: [Atharva Jaiswal](https://www.linkedin.com/in/atharva-jaiswal/)
