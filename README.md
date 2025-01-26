@@ -97,7 +97,6 @@ python setup.py
 This script will automatically download the necessary data and install all dependencies from `requirements.txt`.
 
 ## Contact
-
 For questions or suggestions, please reach out to:
 - **Atharva Jaiswal**
 - **Email**: atharvapj5@gmail.com
