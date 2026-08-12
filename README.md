@@ -1,3 +1,5 @@
+
+
 # Stock Market Manipulation Detection via Tweet Analysis
 
 This project focuses on detecting potential stock market manipulation by analyzing tweets related to major companies. The aim is to identify signs of insider trading and the spread of false information intended to influence stock prices.
@@ -79,7 +81,7 @@ Stock-Market-Manipulation-Detection/
 
 ### Stock Market Data Collection
 
-- **Notebook**: `src/data collection/stock_market_collections_src/0_stock_data_collector.ipynb`
+- **Notebook**: `src/data collection/0_stock_data_collector.ipynb`
 - **Process**:
   - Used the `yfinance` library to download historical stock prices for the Nifty 50 companies.
   - Collected data matching the date range of the tweets.
